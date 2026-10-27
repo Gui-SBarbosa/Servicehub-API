@@ -15,7 +15,7 @@ public class OpenApiConfig {
                 .info(new Info()
                         .title("ServiceHub API")
                         .version("v1")
-                        .description("API para gerenciamento de providers do ServiceHub")
+                        .description("API para conexão entre empresas contratantes e prestadores de serviços")
                         .contact(new Contact().name("ServiceHub")));
     }
 }
